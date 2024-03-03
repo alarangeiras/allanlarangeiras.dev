@@ -8,7 +8,7 @@ Experience in Clean Architecture, Clean Code, SOLID and DRY.
 ## Interests: 
 * DevSecOps Topics.
 
-<h3>Where to find me</h3>
+<h3>Where can you find me?</h3>
 <p>
   <a href="https://twitter.com/alarangeiras" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
