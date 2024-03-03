@@ -6,7 +6,7 @@ Knowledge in quality assurance using Unit, Integrated and e2e tests.
 Experience in Clean Architecture, Clean Code, SOLID and DRY.  
 
 # Useful links
-- [Blog posts](../posts/main.md)
+- [Blog posts](https://github.com/alarangeiras/allanlarangeiras.dev/blob/main/posts/main.md)
 
 ## Interests: 
 * DevSecOps Topics.
